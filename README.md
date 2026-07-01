@@ -21,12 +21,12 @@ Graduado del **Máster en Inteligencia Artificial y Big Data**, formación que m
 ## 💼 Experiencia
 
 - **ENCAMINA** - IA Platform Engineer | Sept 2025 – Actualmente
-  Desarrollo y despliegue de agentes de IA para la automatización de flujos de trabajo complejos, integrando LLMs en aplicaciones reales para clientes bajo entornos Cloud (Azure).
-  Optimización de prompts en un sistema text-to-SQL, logrando una mejora de precisión superior al 70% en la generación de consultas SQL y reduciendo errores del modelo en entornos productivos.
-  Diseño e implementación de un sistema de procesamiento documental basado en LLMs (Azure OpenAI), convirtiendo PDFs a Markdown estructurado y generando chunks jerárquicos optimizados para recuperación de información.
-  Implementación de un sistema de recuperación tipo RAG sin embeddings, utilizando Azure AI Search (BM25) para búsqueda precisa y generación contextual de respuestas mediante LLMs.
-  Desarrollo de APIs REST y lógica backend en C# (.NET), integrando servicios cloud como Azure App Services, Functions, CosmosDB y Blob Storage.
-  Participación en desarrollo ágil (Scrum) utilizando Azure DevOps en proyectos colaborativos para clientes.
+  - Desarrollo y despliegue de agentes de IA para la automatización de flujos de trabajo complejos, integrando LLMs en aplicaciones reales para clientes bajo entornos Cloud (Azure).
+  - Optimización de prompts en un sistema text-to-SQL, logrando una mejora de precisión superior al 70% en la generación de consultas SQL y reduciendo errores del modelo en entornos productivos.
+  - Diseño e implementación de un sistema de procesamiento documental basado en LLMs (Azure OpenAI), convirtiendo PDFs a Markdown estructurado y generando chunks jerárquicos optimizados para recuperación de información.
+  - Implementación de un sistema de recuperación tipo RAG sin embeddings, utilizando Azure AI Search (BM25) para búsqueda precisa y generación contextual de respuestas mediante LLMs.
+  - Desarrollo de APIs REST y lógica backend en C# (.NET), integrando servicios cloud como Azure App Services, Functions, CosmosDB y Blob Storage.
+  - Participación en desarrollo ágil (Scrum) utilizando Azure DevOps en proyectos colaborativos para clientes.
 
 - **📊 Proyecto Académico (Máster):**  
   Implementación de soluciones basadas en *machine learning* y *deep learning* para la predicción de patrones en grandes conjuntos de datos. Desarrollo de modelos de clasificación y regresión aplicados a datos estructurados y no estructurados.
