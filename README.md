@@ -32,7 +32,8 @@ Graduado del **Máster en Inteligencia Artificial y Big Data**, formación que m
   Implementación de soluciones basadas en *machine learning* y *deep learning* para la predicción de patrones en grandes conjuntos de datos. Desarrollo de modelos de clasificación y regresión aplicados a datos estructurados y no estructurados.
 
 - **💻 Prácticas Profesionales en Inetum:**  
-  Colaboración como Desarrollador .NET en el área de escalabilidad. Desarrollo y mantenimiento de aplicaciones empresariales utilizando **C#** y **.NET**.
+  - Desarrollo backend en entorno .NET dentro del área de escalabilidad en el proyecto sanitario Casiopea (grupo Quirón Salud).
+  - Implementación y consumo de APIs REST documentadas con Swagger.
 
 ---
 
